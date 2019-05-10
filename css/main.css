@@ -60,7 +60,7 @@ h1 + p {
 
 .moje1 {
   box-sizing: content-box;
-  width: 200px;
+  width: 10em;
   background-color: aqua;
   padding: 5px 5px;
   border: 20px dashed red;
@@ -69,7 +69,7 @@ h1 + p {
 
 .moje2 {
   background-color: aqua;
-  width: 200px;
+  width: 10em;
   padding: 5px 5px;
   border: 20px dashed red;
   margin: 20px auto;
