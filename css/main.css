@@ -30,7 +30,6 @@ h1 + p {
   background-color: pink;
   padding: 1em;
   margin-top: 5px;
-
   border: 2px dotted #000;
   border-radius: 10px;
 }
