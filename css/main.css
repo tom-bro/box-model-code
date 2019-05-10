@@ -58,3 +58,20 @@ h1 + p {
 
   border-radius: 50%;
 }
+
+.moje1 {
+  box-sizing: content-box;
+  width: 200px;
+  background-color: aqua;
+  padding: 5px 5px;
+  border: 20px dashed red;
+  margin: 20px 20px;
+}
+
+.moje2 {
+  background-color: aqua;
+  width: 200px;
+  padding: 5px 5px;
+  border: 20px dashed red;
+  margin: 20px 20px;
+}
